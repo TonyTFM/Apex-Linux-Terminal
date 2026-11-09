@@ -1,0 +1,13 @@
+/proc/
+/sys/
+/dev/
+/run/
+/tmp/
+/var/
+/usr/
+/etc/
+/lib/
+/bin/
+/sbin/
+/opt/
+/mnt/
